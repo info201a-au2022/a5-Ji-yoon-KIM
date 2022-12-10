@@ -5,10 +5,10 @@ account: jiyoonk810
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7861154
-bundleId: 6618321
+bundleId: 6618366
 url: https://jiyoonk810.shinyapps.io/a5-Ji-yoon-KIM/
-when: 1670635192.98302
-lastSyncTime: 1670635192.98303
+when: 1670636150.65031
+lastSyncTime: 1670636150.65033
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: app_server.R|app_ui.R|LICENSE|README.md
+ignoredFiles: LICENSE|README.md

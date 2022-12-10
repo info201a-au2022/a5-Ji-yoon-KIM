@@ -1,5 +1,5 @@
-#library(shiny)
-
+library(shiny)
+source("app_server.R")
 # Introduction page
 intro_page <- tabPanel(
   "Introduction",
